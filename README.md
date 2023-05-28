@@ -26,10 +26,10 @@ I'm Martin from Bulgaria. I solve basic introductory tasks in the CS language. W
 
 
 <p align="center">
-  <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="(https://github-readme-stats.vercel.app/api?username=MartinYordanov91&show_icons=true&theme=midnight-purple)" alt="GitHub Stats" style="max-width: 100%;">
+  <a align="center" href="https://github.com/MartinYordanov91/github-readme-stats"><img align="center" src="(https://github-readme-stats.vercel.app/api?username=MartinYordanov91&show_icons=true&theme=midnight-purple)" alt="GitHub Stats" style="max-width: 100%;">
   </a>
   <th></th>
-  <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinYordanov91&theme=midnight-purple" style="max-width: 100%;">
+  <a align="center" href="https://github.com/MartinYordanov91/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinYordanov91&theme=midnight-purple" style="max-width: 100%;">
   </a>
 </p>
 
