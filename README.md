@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/user:21333355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21333355" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100023313609578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="мартин илиев йорданов" height="30" width="40" /></a>
-<a href="https://instagram.com/martinilievio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martinilievio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@martinyordanov2921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@martinyordanov2921" height="30" width="40" /></a>
+<a href="https://instagram.com/martinilievio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martinilievio" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCw-LM4oyi-2NZ8HBZl8Bktw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@martinyordanov2921" height="30" width="40" /></a>
 <a href="https://discord.gg/FleXy#3743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FleXy#3743" height="30" width="40" /></a>
 </p>
 
