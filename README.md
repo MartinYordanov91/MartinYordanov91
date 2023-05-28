@@ -1,6 +1,6 @@
-[![MasterHead](https://github.com/MartinYordanov91
-/Profile-Customization/blob/main/banner.png?raw=true)](https://github.com/MartinYordanov91
-/)
+[![MasterHead](https://github.com/MartinYordanov91/Profile-Customization/blob/main/banner.png?raw=true)](https://github.com/MartinYordanov91/)
+
+[![MasterHead](https://github.com/TripleFlacko/Profile-Customization/blob/main/banner.png?raw=true)](https://github.com/TripleFlacko/)
 
 <h1 align="center">Hi 👋, I'm Martin Yordanov</h1>
 <h3 align="center">A beginner bacкЕnd developer from Bulgaria</h3>
