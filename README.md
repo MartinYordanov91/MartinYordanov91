@@ -39,3 +39,10 @@ I'm Martin from Bulgaria. I solve basic introductory tasks in the CS language. W
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MartinYordanov91)  
 
+
+
+<p align="center">
+  
+  <a align="left" href="https://github.com/MartinYordanov91/github-profile-trophy"><img align="left" src="https://github-profile-trophy.vercel.app/?username=MartinYordanov91&theme=darkhub" style="max-width: 100%;" width="40" height="60">
+  </a>
+</p>
