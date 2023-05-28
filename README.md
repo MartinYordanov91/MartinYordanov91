@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MartinYordanov91/Profile-Customization/blob/main/banner.png?raw=true)](https://github.com/MartinYordanov91/)
+[![MasterHead](github.com/MartinYordanov91/MartinYordanov91/blob/main/baner.jpg)](https://github.com/MartinYordanov91/)
 
 [![MasterHead](https://github.com/TripleFlacko/Profile-Customization/blob/main/banner.png?raw=true)](https://github.com/TripleFlacko/)
 
