@@ -35,8 +35,6 @@ I'm Martin from Bulgaria. I solve basic introductory tasks in the CS language. W
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MartinYordanov91&theme=midnight-purple)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinYordanov91&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub metrics](https://metrics.lecoq.io/MartinYordanov91)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MartinYordanov91)  
