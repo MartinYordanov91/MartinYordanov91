@@ -33,7 +33,7 @@ I'm Martin from Bulgaria. I solve basic introductory tasks in the CS language. W
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinYordanov91&show_icons=true&count_private=true)  
 
-[![Martin GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinYordanov91&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Martin GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinYordanov91&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/MartinYordanov91)  
 
