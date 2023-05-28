@@ -37,4 +37,3 @@ I'm Martin from Bulgaria. I solve basic introductory tasks in the CS language. W
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MartinYordanov91)  
 
-![Profile views](https://gpvc.arturio.dev/MartinYordanov91)  
