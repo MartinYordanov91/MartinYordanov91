@@ -25,8 +25,9 @@
 
 
 <p1 align="center"> 
-  <a align="left" href="[https://github.com/MartinYordanov91/github-readme-stats](https://github.com/MartinYordanov91/MartinYordanov91/edit/main/README.md)"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinYordanov91&theme=midnight-purple" style="max-width: 100%;"></a>
+  <a align="left" href="(https://github.com/anuraghazra/github-readme-stats)"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinYordanov91&theme=midnight-purple" style="max-width: 100%;"></a>
 </p1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/MartinYordanov91=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinYordanov91&show_icons=true&theme=midnight-purple)](https://github.com/MartinYordanov91/github-readme-stats)
 
