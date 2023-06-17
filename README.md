@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinyordanov91&label=Profile%20views&color=0e75b6&style=flat" alt="martinyordanov91" /> </p>
 
-## I'm Martin from Bulgaria. I solve basic introductory tasks in the CS language. Walking the path of a C# web developer.
+## I'm Martin from Varna-Bulgaria. I solve basic introductory tasks in the CS language. Walking the path of a C# web developer.
 
 - 🌱 I’m currently learning **fundamentals softuni curse c#**
 
