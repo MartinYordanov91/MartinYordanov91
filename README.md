@@ -36,9 +36,8 @@
 
 <img src="https://streak-stats.demolab.com/?user=MartinYordanov91&theme=midnight-purple" alt="GitHub streak stats">
 
+<a href="https://github.com/MartinYordanov91/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=MartinYordanov91&theme=darkhub" alt="trophy">
+</a>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MartinYordanov91&theme=midnight-purple)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MartinYordanov91&theme=darkhub)](https://github.com/MartinYordanov91/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/MartinYordanov91)
+<img src="https://metrics.lecoq.io/MartinYordanov91" alt="GitHub metrics">
