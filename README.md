@@ -30,7 +30,11 @@
   </a>
 </p>
 
-[![Martin GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinYordanov91&show_icons=true&theme=midnight-purple)](https://github.com/MartinYordanov91/github-readme-stats)
+<a href="https://github.com/MartinYordanov91/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MartinYordanov91&show_icons=true&theme=midnight-purple" alt="Martin GitHub stats">
+</a>
+
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MartinYordanov91&theme=midnight-purple)  
 
