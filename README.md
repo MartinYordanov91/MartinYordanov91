@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I like to let loose when i play league of legends**
 
 
- ## <h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center"><a href="https://stackoverflow.com/users/user:21333355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21333355" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100023313609578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="мартин илиев йорданов" height="30" width="40" /></a>
 <a href="https://instagram.com/martinilievio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martinilievio" height="30" width="40" /></a>
