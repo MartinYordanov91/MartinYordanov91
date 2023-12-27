@@ -34,6 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MartinYordanov91&show_icons=true&theme=midnight-purple" alt="Martin GitHub stats">
 </a>
 
+<img src="https://streak-stats.demolab.com/?user=MartinYordanov91&theme=midnight-purple" alt="GitHub streak stats">
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MartinYordanov91&theme=midnight-purple)  
