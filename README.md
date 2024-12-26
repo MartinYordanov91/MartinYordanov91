@@ -57,9 +57,12 @@ I am currently enrolled in the **C# Full-Stack Developer** course, focusing on:
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinYordanov91&theme=midnight-purple" alt="Top Languages">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MartinYordanov91&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=MartinYordanov91&theme=midnight-purple" alt="GitHub Streak Stats">
-  <img src="https://metrics.lecoq.io/MartinYordanov91" alt="GitHub Metrics">
 </p>
 
 ## 🙏 Acknowledgements
